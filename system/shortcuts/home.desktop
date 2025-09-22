@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Home
+Comment=Open your Home folder
+Exec=thunar ~/
+Icon=user-home
+Terminal=false
+Categories=FileManager;System;

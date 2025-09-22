@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Trash
+Comment=Open the Trash folder
+Exec=thunar trash:///
+Icon=user-trash
+Terminal=false
+Categories=FileManager;System;

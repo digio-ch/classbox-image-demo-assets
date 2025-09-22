@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Todo App Workspace
+Comment=Open VS Code workspace for Todo App
+Exec=code --file-uri "/home/classbox/Documents/todo-app/todo-app.code-workspace" --disable-workspace-trust
+Icon=code
+Terminal=false
+Categories=Development;IDE;
