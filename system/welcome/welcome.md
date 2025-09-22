@@ -20,7 +20,7 @@ Die Lernumgebung ist mit einer Auswahl an praxisorientierten Entwicklungswerkzeu
 
 - **Todo-Demo-Applikation** (Full-Stack-Projekt auf Basis von Node.js und Vue.js)
   - **Frontend:** http://localhost:5173
-  - **Backend (API):** http://localhost:3030/api/todos<br><br>
+  - **Backend (API):** http://localhost:3000/api/todos<br><br>
     Diese Applikation dient als Beispielprojekt und kann direkt zur Übung oder Weiterentwicklung genutzt werden.
 
 - **Docker Engine**<br>
