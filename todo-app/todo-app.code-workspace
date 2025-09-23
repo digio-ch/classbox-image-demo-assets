@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "backend"
+		},
+		{
+			"path": "frontend"
+		}
+	],
+	"settings": {
+		// prevent vscode from opening the chat panel to the right
+		"chat.disableAIFeatures": true,
+  }
+}
