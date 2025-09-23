@@ -2,8 +2,9 @@
 Version=1.0
 Type=Application
 Name=Todo App Workspace
-Comment=Open VS Code workspace for Todo App
+Comment=Open a VS Code Workspace for the Todo App
 Exec=code --file-uri "/home/classbox/Documents/todo-app/todo-app.code-workspace" --disable-workspace-trust
-Icon=code
+Icon=/usr/share/pixmaps/vscode.png
 Terminal=false
-Categories=Development;IDE;
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;application/x-code-workspace;
