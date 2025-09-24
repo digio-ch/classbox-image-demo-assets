@@ -1,8 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Link
-Name=Classbox
+Name=ClassBox.ch
 Comment=Open Classbox Product Page
 URL=http://www.classbox.ch
-Icon=/home/classbox/Pictures/logo.png
-Categories=Network;WebBrowser;
+Icon=/home/classbox/Pictures/logo-inverted.png
