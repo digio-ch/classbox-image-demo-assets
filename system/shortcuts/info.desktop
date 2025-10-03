@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Welcome Information
+Comment=Open Classbox Welcome Information
+Exec=firefox --new-tab file:///home/classbox/Documents/welcome/welcome.html
+Icon=/home/classbox/Pictures/question-mark.png
+Categories=Network;WebBrowser;
